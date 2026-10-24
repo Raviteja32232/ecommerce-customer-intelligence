@@ -1,0 +1,201 @@
+product_id,category,list_price
+P0000,Electronics,3968.0
+P0001,Electronics,2029.0
+P0002,Electronics,2917.0
+P0003,Electronics,2626.0
+P0004,Electronics,2246.0
+P0005,Electronics,3556.0
+P0006,Electronics,1102.0
+P0007,Electronics,3037.0
+P0008,Electronics,3361.0
+P0009,Electronics,1899.0
+P0010,Electronics,6915.0
+P0011,Electronics,2678.0
+P0012,Electronics,3145.0
+P0013,Electronics,2681.0
+P0014,Electronics,3374.0
+P0015,Electronics,6306.0
+P0016,Electronics,10651.0
+P0017,Electronics,4895.0
+P0018,Electronics,5711.0
+P0019,Electronics,7577.0
+P0020,Electronics,3915.0
+P0021,Electronics,7095.0
+P0022,Electronics,5000.0
+P0023,Electronics,3734.0
+P0024,Electronics,4098.0
+P0025,Fashion,529.0
+P0026,Fashion,1369.0
+P0027,Fashion,599.0
+P0028,Fashion,577.0
+P0029,Fashion,1309.0
+P0030,Fashion,727.0
+P0031,Fashion,1196.0
+P0032,Fashion,1277.0
+P0033,Fashion,1303.0
+P0034,Fashion,799.0
+P0035,Fashion,1798.0
+P0036,Fashion,1153.0
+P0037,Fashion,1463.0
+P0038,Fashion,700.0
+P0039,Fashion,1107.0
+P0040,Fashion,1966.0
+P0041,Fashion,1857.0
+P0042,Fashion,838.0
+P0043,Fashion,939.0
+P0044,Fashion,769.0
+P0045,Fashion,893.0
+P0046,Fashion,639.0
+P0047,Fashion,1128.0
+P0048,Fashion,1596.0
+P0049,Fashion,843.0
+P0050,Home & Kitchen,1728.0
+P0051,Home & Kitchen,1630.0
+P0052,Home & Kitchen,2894.0
+P0053,Home & Kitchen,1367.0
+P0054,Home & Kitchen,1389.0
+P0055,Home & Kitchen,1230.0
+P0056,Home & Kitchen,1079.0
+P0057,Home & Kitchen,2284.0
+P0058,Home & Kitchen,1694.0
+P0059,Home & Kitchen,1845.0
+P0060,Home & Kitchen,3194.0
+P0061,Home & Kitchen,3278.0
+P0062,Home & Kitchen,858.0
+P0063,Home & Kitchen,2409.0
+P0064,Home & Kitchen,1992.0
+P0065,Home & Kitchen,1462.0
+P0066,Home & Kitchen,2086.0
+P0067,Home & Kitchen,828.0
+P0068,Home & Kitchen,3476.0
+P0069,Home & Kitchen,2269.0
+P0070,Home & Kitchen,1220.0
+P0071,Home & Kitchen,1383.0
+P0072,Home & Kitchen,836.0
+P0073,Home & Kitchen,1563.0
+P0074,Home & Kitchen,1449.0
+P0075,Beauty,386.0
+P0076,Beauty,993.0
+P0077,Beauty,1243.0
+P0078,Beauty,691.0
+P0079,Beauty,610.0
+P0080,Beauty,851.0
+P0081,Beauty,694.0
+P0082,Beauty,430.0
+P0083,Beauty,522.0
+P0084,Beauty,613.0
+P0085,Beauty,783.0
+P0086,Beauty,703.0
+P0087,Beauty,770.0
+P0088,Beauty,352.0
+P0089,Beauty,944.0
+P0090,Beauty,701.0
+P0091,Beauty,2208.0
+P0092,Beauty,588.0
+P0093,Beauty,810.0
+P0094,Beauty,2500.0
+P0095,Beauty,764.0
+P0096,Beauty,679.0
+P0097,Beauty,449.0
+P0098,Beauty,1392.0
+P0099,Beauty,416.0
+P0100,Books,485.0
+P0101,Books,323.0
+P0102,Books,367.0
+P0103,Books,211.0
+P0104,Books,732.0
+P0105,Books,353.0
+P0106,Books,232.0
+P0107,Books,703.0
+P0108,Books,319.0
+P0109,Books,465.0
+P0110,Books,584.0
+P0111,Books,495.0
+P0112,Books,149.0
+P0113,Books,547.0
+P0114,Books,382.0
+P0115,Books,345.0
+P0116,Books,381.0
+P0117,Books,194.0
+P0118,Books,436.0
+P0119,Books,216.0
+P0120,Books,352.0
+P0121,Books,429.0
+P0122,Books,649.0
+P0123,Books,277.0
+P0124,Books,769.0
+P0125,Sports,2297.0
+P0126,Sports,1236.0
+P0127,Sports,911.0
+P0128,Sports,783.0
+P0129,Sports,1695.0
+P0130,Sports,1076.0
+P0131,Sports,2573.0
+P0132,Sports,1105.0
+P0133,Sports,1000.0
+P0134,Sports,1666.0
+P0135,Sports,1102.0
+P0136,Sports,1506.0
+P0137,Sports,2338.0
+P0138,Sports,1581.0
+P0139,Sports,1584.0
+P0140,Sports,1645.0
+P0141,Sports,700.0
+P0142,Sports,1789.0
+P0143,Sports,1612.0
+P0144,Sports,2242.0
+P0145,Sports,1970.0
+P0146,Sports,1370.0
+P0147,Sports,2387.0
+P0148,Sports,1315.0
+P0149,Sports,1676.0
+P0150,Toys,782.0
+P0151,Toys,1108.0
+P0152,Toys,760.0
+P0153,Toys,1889.0
+P0154,Toys,2231.0
+P0155,Toys,1334.0
+P0156,Toys,1801.0
+P0157,Toys,450.0
+P0158,Toys,475.0
+P0159,Toys,779.0
+P0160,Toys,917.0
+P0161,Toys,823.0
+P0162,Toys,430.0
+P0163,Toys,1511.0
+P0164,Toys,2373.0
+P0165,Toys,1602.0
+P0166,Toys,1467.0
+P0167,Toys,996.0
+P0168,Toys,616.0
+P0169,Toys,930.0
+P0170,Toys,2321.0
+P0171,Toys,768.0
+P0172,Toys,733.0
+P0173,Toys,1481.0
+P0174,Toys,1526.0
+P0175,Grocery,341.0
+P0176,Grocery,444.0
+P0177,Grocery,399.0
+P0178,Grocery,516.0
+P0179,Grocery,822.0
+P0180,Grocery,348.0
+P0181,Grocery,816.0
+P0182,Grocery,523.0
+P0183,Grocery,1424.0
+P0184,Grocery,577.0
+P0185,Grocery,479.0
+P0186,Grocery,648.0
+P0187,Grocery,430.0
+P0188,Grocery,223.0
+P0189,Grocery,449.0
+P0190,Grocery,446.0
+P0191,Grocery,244.0
+P0192,Grocery,484.0
+P0193,Grocery,197.0
+P0194,Grocery,428.0
+P0195,Grocery,558.0
+P0196,Grocery,522.0
+P0197,Grocery,416.0
+P0198,Grocery,481.0
+P0199,Grocery,351.0
